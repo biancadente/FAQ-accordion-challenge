@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://biancadente.github.io/FAQ-accordion-challenge/)
+- Live Site URL: [https://biancadente.github.io/FAQ-accordion-challenge/](https://biancadente.github.io/FAQ-accordion-challenge/)
 
 
 ### Built with
@@ -47,4 +47,4 @@ Users should be able to:
 ## Author
 
 - Website - [Bianca Dente](https://github.com/biancadente)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/biancadente)
+- Frontend Mentor - [@biancadente](https://www.frontendmentor.io/profile/biancadente)
